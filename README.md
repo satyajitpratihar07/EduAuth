@@ -3,8 +3,7 @@
 A modern **education platform UI with authentication system** built using modern web technologies.  
 This project demonstrates a clean, responsive interface for an online learning platform with course listings, user access, and scalable UI components.
 
----
-
+---------
 ## 🚀 Live Demo
 🔗 https://eduauth-v1.vercel.app/
 
